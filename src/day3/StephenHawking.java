@@ -13,7 +13,7 @@ public class StephenHawking {
 	// 2. ask the user for a sentence
 	String name = JOptionPane.showInputDialog("what is a sentence");
 	// 3. call the speak method below and send it the sentence
-	speak (name+"bob the man "  ) ;
+	speak (name+"bob the mananananananananananaananan                               anananananananananananananananananan "  ) ;
 	// 4. repeat steps 2 and 3 a lot of times
 	}
 	/* Don’t change this…. */
